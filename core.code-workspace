@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "path": "/home/jesus/Escritorio/perup_test"
+    }
+  ],
+  "settings": {
+    "eslint.workingDirectories": [
+      "/home/jesus/Escritorio/perup_test"
+    ],
+    "eslint.nodePath": "~/tools/eslint-tool/1.0.3/node_modules",
+    "eslint.validate": [
+      "javascript",
+      "typescript"
+    ],
+    "eslint.options": {
+      "overrideConfigFile": "/home/jesus/Escritorio/perup_test/.eslintrc.json"
+    }
+  }
+}

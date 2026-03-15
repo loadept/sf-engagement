@@ -1,0 +1,25 @@
+<template>
+  <lightning-card title="Engagement Summary" icon-name="standard:service_report">
+    <div class="slds-p-around_medium">
+      <div class="slds-m-bottom_small">
+        <p><strong>Related Opportunity Amount:</strong>
+          <lightning-formatted-number value={oppAmount} format-style="currency" currency-code="USD">
+          </lightning-formatted-number>
+        </p>
+      </div>
+      <div class="slds-grid slds-gutters slds-m-bottom_medium">
+        <div class="slds-col">
+          <p>Completed Tasks: <span class="slds-badge">{completedTasks}</span></p>
+        </div>
+        <div class="slds-col">
+          <p>Upcoming Events: <span class="slds-badge">{upcomingEvents}</span></p>
+        </div>
+        <!-- <div class="slds-col">
+          <p>The engagement ID: <span class="slds-badge">{tomaEngagementeId}</span></p>
+        </div> -->
+      </div>
+      <lightning-button label="Quick Follow-Up Call" variant="brand" onclick={handleFollowUp} stretch>
+      </lightning-button>
+    </div>
+  </lightning-card>
+</template>
