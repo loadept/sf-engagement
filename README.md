@@ -52,26 +52,26 @@ Interfaz de usuario reactiva para visualización de metadatos.
 
 ![Captura 1](https://assets.loadept.com/r/Captura%20de%20pantalla_20260315_140156.png)
 
-*Visualización del componente Lightning integrado en la página de registro de Engagement, mostrando el ID obtenido vía Apex.*
+Visualización del componente Lightning integrado en la página de registro de Engagement, mostrando el ID obtenido vía Apex.
 
 ### 2. Registro de Actividad
 
 ![Captura 2](https://assets.loadept.com/r/Captura%20de%20pantalla_20260315_135959.png)
 
-*Ejemplo de log de interacción (llamada/email) guardado en la línea de tiempo del registro.*
+Ejemplo de log de interacción (llamada/email) guardado en la línea de tiempo del registro.
 
 ### 3. Ejecución del Flow
 
 ![Captura 3](https://assets.loadept.com/r/Captura%20de%20pantalla_20260315_140441.png)
 ![Captura 3.1](https://assets.loadept.com/r/Captura%20de%20pantalla_20260315_140557.png)
 
-*Evidencia de la tarea generada automáticamente por el sistema tras el cambio de estado en la Oportunidad relacionada.*
+Evidencia de la tarea generada automáticamente por el sistema tras el cambio de estado en la Oportunidad relacionada.
 
 ### 4. Reporte y Gráfico
 
 ![Captura 4](https://assets.loadept.com/r/Captura%20de%20pantalla_20260315_141623.png)
 
-*Informe `Engagement Pipeline` mostrando la distribución de montos. El nombre del List View utilizado es `All Engagements`.*
+Informe `Engagement Pipeline` mostrando la distribución de montos. El nombre del List View utilizado es `All Engagements`.*
 
 ### 5. otras
 ![otros 1](https://assets.loadept.com/r/Captura%20de%20pantalla_20260315_141956.png)
