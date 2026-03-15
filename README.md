@@ -82,3 +82,6 @@ Informe `Engagement Pipeline` mostrando la distribución de montos. El nombre de
 * Se implementó una fórmula lógica en el Flow para asegurar que la fecha de vencimiento de las tareas no caiga en fin de semana.
 * Se asumió una relación de tipo *Lookup* de Oportunidad a Engagement para mantener la flexibilidad del modelo de datos.
 * Se aplicaron modificadores `with sharing` en Apex para respetar la jerarquía de roles de Salesforce.
+
+
+- loadept
